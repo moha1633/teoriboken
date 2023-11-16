@@ -14,7 +14,6 @@ Det finns ett mer traditionellt sätt att arbeta är waterfall som är den metod
 Waterfall-metoden lämpar sig bäst för projekt där kraven är väldefinierade och sällan förändras under projektets gång.
 
 
-
 Scrum är ett agilt ramverk för att hantera och slutföra komplexa projekt. Det utvecklades ursprungligen för mjukvaruutveckling men har sedan dess använts inom olika områden och branscher. Scrum-ramverket betonar iteration och inkrementella framsteg, vilket gör det möjligt för team att anpassa sig till förändringar och leverera värde snabbt.
 
 1:roller: Scrum Master: Ansvarig för att se till att Scrum-teamet följer Scrum-praxis och hjälper teamet att ta bort alla hinder som kan påverka dess produktivitet. Produktägare: Representerar intressenterna och ansvarar för att definiera och prioritera 
@@ -54,11 +53,14 @@ Beskriv rubriken nedan här
 vad är entreprenörskap  webbutveckling 
 Entreprenörskap  handlar om att förverkliga ideer som kan ge ekonomiska fördelar eller förbättra levnadsvillkoren eller flera personer ,men också om att ta risker för att skapa lösningar utveckla och organisera nätverk och identifiera möjligheter snarare än problem det handlar om också om i lärande för hållbar utveckling används entreprenörskap för att utföra arbete som direkt eller indirekt bidrar till hållbar utveckling. Det finns olika entreprenörskap webbutveckling några här:
 
-A) Affärside och mål: En tydlig affärside är grundläggande: Det vara att tillhandahålla webbutveckling tjänster ,utveckla webbapplikationer ,designa webbplatser, andra tjänster inom detta området företag, målet det är tydligt definierat .
+A) Affärside och mål: En framgångsrik webbutvecklingsentreprenör bör ha en tydlig affärsidé som grunden för verksamheten. Detta kan innebära att tillhandahålla webbutvecklingstjänster, utveckla webbapplikationer, designa webbplatser eller andra relaterade tjänster. Företagets mål ska vara tydligt definierade och relatera till den övergripande visionen..
 
-B) Marknadsundersökning :att förstå marknaden och dessa behov är viktigt.Detta inkluderar att identifiera dina konkurrenter, din målgrupp och de specifika behov ditt företag kan möta.
+B) Marknadsundersökning :aFör att bli framgångsrik inom webbutveckling är det avgörande att förstå marknaden och dess behov. Detta inkluderar att identifiera konkurrenter, definiera målgrupper och analysera specifika behov som företaget kan fylla. Omfattande marknadsundersökningar hjälper till att utveckla företagets strategi och särskilja den från konkurrenterna
 
 C) Tekniska förmåga : Det är mycket viktigt för webbutveckling entreprenörer att ha god teknisk förmåga eller att vara omgiven av teknikkunniga medarbetare . Du ska kunna professionellt bygga och underhålla webblösningar. området webbutveckling  förändras snabbt därför entreprenörer måste hålla sig uppdaterade med de  senaste teknologierna och trenderna för att hålla de senaste och mest konkurrenskraftiga lösningarna .
+
+D) Fokus på hållbar utveckling: Entreprenörskap inom webbutveckling kan också bidra till hållbar utveckling genom att skapa miljömässigt och ekonomiskt hållbara lösningar. Detta kan inkludera att använda energibesparande teknik, skapa webbplatser och applikationer med användarvänliga gränssnitt och optimera prestanda för att minska onödig belastning på servrar och nätverk.
+Sammanfattningsvis kombinerar webbutvecklingsentreprenörskap tekniska färdigheter, affärsorientering och innovation för att skapa och driva framgångsrika företag i en dynamisk och snabbt föränderlig digital miljö
 ## PJ 1.4 Issue distribution and handling in a group
 Beskriv rubriken nedan här
 Uppgiftsfördelning och ledning i ett team avser effektiv fördelning och hantering av olika uppgifter, uppgifter eller arbetsmoment bland medlemmarna för att uppnå ett gemensamt mål. Här är några vanliga strategier och processer för att hantera ärenden i en grupp:
