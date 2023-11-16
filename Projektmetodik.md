@@ -37,14 +37,15 @@ Beskriv rubriken nedan här
 icke agile metoder är en metoder för mjukvaruutveckling och projektledning som inte motsvarar de principer och värderingar som förknippas med agila metoder som scrum,kanban eller extreme programming fokusera samarbete och leverera värdefull produkter . några exempel är  som icke agila metoder är
 
 
-A) Waterfall-metoden : det är en traditionell projektledningsmetod där varje fas såsom kravspecifikation,design ,implementation och testning utförs i en strikt ordning .Det finns liten flexibilitet för ändringar efter att en fas har påbörjats. 
+A) Waterfall-metoden : Vattenfallsmetoden är en sekventiell och linjär modell där varje utvecklingsfas måste genomföras innan nästa fas kan påbörjas. Detta innebär att kravspecifikation, design, implementering och testning utförs i en strikt sekvens. En utmaning med vattenfallsmetoden är dess begränsade flexibilitet att hantera förändringar efter att en fas har börjat, vilket kan göra projektet mindre anpassningsbart till förändrade behov eller omständigheter. 
 
-B) Rational  Unified process(Rup):är iterativ men ändå icke-agil metodik som fokuserar på formella dokument och processer .Den omfattar fyra faser: Inception, Elaboration, Construction och Transition .
+B) Rational  Unified process(Rup):äRUP är ett iterativt tillvägagångssätt men följer fortfarande inte till fullo agila principer. Det betonar formella dokument och processer och är indelat i fyra steg: Inception (projektinitiering), Utarbetning (detaljplanering), Konstruktion (implementering) och Transition (produktleverans). RUP ger ett strukturerat ramverk, men dess formella och stela karaktär kan göra det mindre lämpligt för snabb anpassning och förändring.
 
-c) Big Design up front(BDF):är ett sätt att specificera alla krav och design i detalj innan implementeringen påbörjas .Detta är motsatsen till agila metoder ,där design och krav kan utvecklas iterativt.
-
+c) Big Design up front(BDF):BDF är en metod för att specificera alla krav och designelement i detalj innan den faktiska implementeringen påbörjas. Till skillnad från agila metoder, där design och krav kan utvecklas iterativt under ett projekts gång, kräver BDF omfattande planering i förväg. Detta tillvägagångssätt kan resultera i omfattande och tidskrävande planeringsfaser och kan vara mindre lämpligt för projekt med förändrade krav.
 D) Capability maturity model integration(cmmi): är ett ramverk för att bedöma och förbättra mognad och kvalitet i en organisations processer.
 Det finns olika nivåer ,där högre nivåer är mer processdrivna och historiskt sett mindre flexibla än agila metoder 
+E) processkontroll. Högre nivåer i CMMI indikerar större processmognad, men det innebär också större styvhet och mindre anpassningsförmåga jämfört med agila metoder.
+Dessa icke-agila metoder betonar ofta omfattande planering och dokumentation, vilket kan vara fördelaktigt i vissa situationer men kan begränsa förmågan att reagera snabbt på förändringar och feedback under projektets gång. De skiljer sig markant från agila metoder, som prioriterar flexibilitet och samarbete för att möta dynamiska behov och förväntningar.
 
 
 ## PJ 1.3 Entreprenörskap inom webbutveckling
