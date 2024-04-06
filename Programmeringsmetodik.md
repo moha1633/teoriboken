@@ -52,6 +52,23 @@ Sammanfattningsvis är testdriven utveckling en kraftfull metod som främjar ett
 
 ## PG 1.4 Deploy och staging
 Beskriv rubriken här
+vad är deploy ?
+Den kritiska fasen där kodändringar överförs från en utvecklingsmiljö till en produktionsmiljö är deployment, även kallad implementering. Den sista delen av utvecklingsprocessen innebär att utvecklare tar den färdiga koden och gör den tillgänglig för användare. Det är möjligt att deploymentprocessen är komplicerad och kräver noggrann planering och validering för att säkerställa att ändringarna går smidigt och att inga oförutsedda problem uppstår i produktionen.
+
+Deployments Processen består av flera avgörande steg:
+
+A)Preparation: Koden måste förberedas för distribution innan deployment börjar. Att paketera och komprimera filer, skapa säkerhetskopieringar och backuper av databaser och genomföra eventuella ändringar eller korrigeringar i sista minuten är några exempel på vad som kan ingå i detta.
+
+B)Verifiering: Efter förberedelserna måste koden valideras för att säkerställa att den är korrekt och fungerar som förväntat. Innan de går till produktionsmiljön är det nödvändigt att utföra en mängd olika tester, såsom systemtester, integrationstester och enheter, för att hitta eventuella fel.
+
+C)Distribueras: Koden kan överföras till produktionsmiljön när den har validerats och testats framgångsrikt. Det är möjligt att göra detta manuellt genom att överföra filer och uppdatera databaser, eller det kan göras automatiskt genom att använda automatiserade system och verktyg för att effektivisera processen.
+
+D)Observation: Efter distributionen måste de nya tilläggen noggrant övervakas för att se till att allt fungerar som förväntat i produktionsprocessen. Detta inkluderar att spåra prestanda, ta itu med problem eller fel och se till att ändringarna inte påverkar användarna negativt.
+
+vad är stagin?
+Staging Miljön är en viktig del av IT-utveckling och används för att testa och validera ändringar av mjukvara innan den släpps live i produktionsmiljön. Utvecklare och testare kan testa hur nya funktioner eller uppdateringar kommer att fungera genom att modellera produktionsmiljön.
+
+
 
 ## PG 1.5 Debugging
 Beskriv rubriken här
@@ -61,6 +78,30 @@ Beskriv rubriken här
 
 ## PG 1.7 Struktur av kod i projekt
 Beskriv rubriken här
+vad är Struktur av kod i projekt ? 
+Ett projekts kodstruktur beskriver hur och hur koden arrangeras för att skapa programvara. Det är en avgörande del av mjukvaruutveckling eftersom en tydlig kodstruktur gör koden lättare att förstå, underhålla och utöka över tid. En bra kodstruktur ökar också samarbete och effektivitet bland utvecklare som arbetar på samma projekt. Här är några av de viktigaste komponenterna i kodstruktur:
+
+A)Modularisering:Modularisering är processen att dela upp koden i mindre, lättare att hantera delar. Detta innebär att olika funktioner och egenskaper är placerade i separata moduler eller filer. Detta gör koden mer återanvändbar och underlättar felsökning och underhåll.
+
+B) Mappens konstruktion: En mappstruktur som är logisk och konsekvent hjälper till att organisera koden så att det är enkelt att hitta relevanta filer och moduler. Att ha mappar för olika delar av applikationen, som "controllers", "models", "views" osv.
+
+C) Standarder för namngivning: För att göra koden lättare att förstå och underhålla är det viktigt att använda konsekventa namngivningsstandarder för filer, variabler, funktioner och klasser. Utvecklare kan snabbt förstå koden utan att behöva läsa dokumentationen genom att följa standardmetoder.
+D) Separation av bekymmer : I enlighet med principen om separation av bekymmer bör olika delar av applikationen, inklusive presentation, affärslogik och dataåtkomst, hållas separata från varandra. Dessutom gör det koden lättare att förstå och ändra.
+E) Dekkumantation:För att förklara kodens syfte, funktion och användning måste den kompletteras med kommentarer och dokumentation. Denna funktion gör det lättare för andra utvecklare att förstå och arbeta med koden.
+
+Formatering av kod: Koden blir lättare att läsa och underhålla om den hålls i en konsekvent kod formatering. Utvecklare kan skriva enhetlig kod som är lättare att arbeta med genom att följa en kodningsstandard eller stilguide.Kontroll av versioner: Utvecklare kan samarbeta och hålla reda på ändringar i koden genom att använda en versionshantering plattform som Git. Detta är särskilt viktigt när flera utvecklare arbetar på samma projekt.Automatisk bedömning: Automatiska testfall hjälper till att säkerställa att koden fungerar korrekt och inte bryter upp befintlig funktionalitet när ändringar görs. Detta minskar sannolikheten för buggar samtidigt som kvaliteten på koden förbättras.
+
+Sammanfattningsvis är strukturen av kod i ett projekt avgörande för att upprätthålla en robust och stabil kodbas. Utvecklare kan skapa kod strukturer som uppmuntrar samarbete, underlättar underhåll och möjliggör skalbarhet över tid genom att använda principer som dokumentation, modularisering och namngivningskonventioner.
+
+Staging Miljön spelar flera avgörande roller inom IT-utveckling:
+
+A)Testning och verifiering: En mängd olika tester och valideringar kan utföras i handlings miljön. Dessa inkluderar funktionsprövning, prestandatestning, användaracceptans testning och säkerhetstestning. Utvecklare och testare kan hitta och fixa eventuella problem innan de når slutanvändarna genom att simulera produktionsmiljön.
+
+
+B)Minimering av risker: Genom att använda stagnation miljön kan företag undvika att göra misstag eller fel i produktionsmiljön. Genom att tillåta ändringar att testas och valideras noggrant innan de släpps live kan problem upptäckas och åtgärdas tidigt, vilket minskar risken för att negativa effekter på användarupplevelsen uppstår.
+
+C) Kommentarer och utvärdering: Innan produktionsmiljön ändras kan hanterings miljön samla in feedback från intressenter och slutanvändare. Detta låter företag göra sista minuten-justeringar eller förbättringar baserat på feedback innan ändringarna släpps live
+
 
 ## PG 1.8 Automatisering av arbetsflöde
 Beskriv rubriken här
@@ -80,8 +121,13 @@ Beskriv rubriken här
 
 källor  
 
-https://limetta.se/tips-metoder-for-digitala-projekt/Vad-ar-GIT-och-GitHub/ 
+https://github.com/git-guides 
 
 https://kinsta.com/se/kunskapsbas/git-vs-github/  
 
 https://www.consid.com/sv/insikter/artiklar/testdriven-utveckling-skriv-test-forst-och-kod-sen-med-tdd-metoden/ 
+
+https://support.microsoft.com/sv-se/topic/skapa-strukturkoder-i-project-skrivbordsversion-bb6a61aa-debd-4e38-8c04-8e2c1ae3cbda 
+
+
+https://umbraco.com/knowledge-base/deployment/  
