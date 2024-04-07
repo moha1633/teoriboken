@@ -19,6 +19,8 @@ Push and Pull: Push används för att ladda upp lokala ändringar till fjärrfö
 Klona: Klona ett arkiv innebär att du skapar en kopia av det på din lokala dator.
 Att förstå och kunna använda dessa grundläggande operationer i Git är avgörande för att arbeta effektivt med programvaruprojekt och samarbeta med andra utvecklare. Det finns också många avancerade koncept och funktioner i Git som du kan utforska när du blir mer bekant med den.
 
+ <img src="./images/github.png" alt=" github"></a>
+
 
 ## PG 1.2 Benchmarking
 Beskriv rubriken här
@@ -30,6 +32,9 @@ A) Teknisk Infrastruktur: Inom teknisk infrastruktur involverar benchmarking en 
 B)Säkerhet och dataskydd: När det gäller säkerhet och dataskydd möjliggör benchmarking en grundlig bedömning av en organisations säkerhetsarkitektur, inklusive brandväggar, system för intrångsdetektering och krypteringsprotokoll. Det omfattar också en analys av säkerhetspolicyn och förfaranden för att hantera säkerhetshot, incidenter och dataintrång. Genom att jämföra dessa med branschstandarder och bästa praxis kan organisationer identifiera områden där säkerhetsförbättringar behövs. Det kan handla om att införa multifaktorautentisering, utbilda personalen och öka säkerhetsmedvetandet samt införa avancerade verktyg för hotanalys för att förbättra förmågan att upptäcka och hantera cyberhot.
 
 C) IT-tjänstehantering och kundsupport: inom IT-tjänstehantering och kundsupport kan benchmarking användas för att jämföra och bedöma en organisations förmåga att tillhandahålla IT-tjänster och support till användare och kunder. Detta inkluderar analysaspekter som genomsnittlig svarstid, snabb problemlösning, kundnöjdhet och incidenthantering. Benchmarking Mot branschledande standarder och bästa praxis kan hjälpa organisationer att identifiera områden där IT-tjänstehantering och kundsupport kan förbättras, till exempel genom att minska svarstider, förbättra incidenthanteringsprocess och implementera bättre verktyg för övervakning och rapportering av kundnöjdhet.Kan.
+
+
+ <img src="./images/ Benchmarking .webp" alt=" Benchmarking"></a>
 
 
 ## PG 1.3 Testdriven utveckling
@@ -67,6 +72,8 @@ D)Observation: Efter distributionen måste de nya tilläggen noggrant övervakas
 
 vad är stagin?
 Staging Miljön är en viktig del av IT-utveckling och används för att testa och validera ändringar av mjukvara innan den släpps live i produktionsmiljön. Utvecklare och testare kan testa hur nya funktioner eller uppdateringar kommer att fungera genom att modellera produktionsmiljön.
+
+ <img src="./images/Deploy och staging.jpeg" alt=" Deploy och staging"></a>
 
 
 
@@ -130,6 +137,8 @@ B)Minimering av risker: Genom att använda stagnation miljön kan företag undvi
 
 C) Kommentarer och utvärdering: Innan produktionsmiljön ändras kan hanterings miljön samla in feedback från intressenter och slutanvändare. Detta låter företag göra sista minuten-justeringar eller förbättringar baserat på feedback innan ändringarna släpps live
 
+ <img src="./images/ Struktur av kod i projekt.png" alt=" strukture "></a>
+
 
 ## PG 1.8 Automatisering av arbetsflöde
 Beskriv rubriken här
@@ -142,9 +151,30 @@ Säkerhet och åtkomstkontroll: Det är möjligt att automatisera hanteringen av
 
 ## PG 1.9 Virtualisering av utvecklingsmiljö
 Beskriv rubriken här
+vad är Virtualisering av utvecklingsmiljö?
+Inom mjukvaruutveckling innebär virtualisering av utvecklingsmiljöer att använda verktyg och tekniker för att skapa en separat och konsekvent utvecklingsmiljö.För att förbättra och underlätta utvecklingsarbetet används virtualisering av utvecklingsmiljön som en programmeringsmetodik. Detta inkluderar användningen av virtualisering verktyg som containrar och virtuella maskiner (VM) för att skapa isolerade och konsistenta utvecklingsmiljöer. Här är några komponenter som kan användas för att integrera virtualisering av utvecklingsmiljön som en programmeringsteknik:
+A) Avdelning och uppsättning för varje projekt:
+Förmågan att separera utvecklingsmiljön för varje projekt är en stor fördel med virtualisering. Det betyder att varje projekt kan använda sina egna unika bibliotek, ramverk och verktyg utan att påverka andra projekt. Detta minskar risken för konflikter och beroenden mellan olika projekt och gör det lättare att hantera de unika kraven och kraven för projektet.
+B) Applikation Uppsättningen som kan köras:
+Containrar kan användas för att skapa en uppsättning av applikationer som kan användas i realtid och som innehåller alla dess beroenden och resurser. Sedan kan denna uppsättning spridas och köras på en mängd olika miljöer och plattformar utan att behöva oroa sig för beroenden eller kompatibilitetsproblem. Detta gör distribution och hantering av applikationen i produktionsmiljöer lättare.
+
+C) Skalbarhet och resurshantering:
+Skala upp och ned är möjligt med både virtuella maskiner och containrar beroende på behov. Detta gör det möjligt att effektivt hantera resurser och skala infrastrukturen för att möta belastningen och behoven hos applikationen. Man kan till exempel enkelt skala upp mängden containrar för att hantera en ökad belastning på en webbapplikation.
+D) Att undvika lokala konfigurationer:
+Genom att använda virtualiserade utvecklingsmiljöer istället för lokala konfigurationer kan man undvika problem som uppstår när man försöker flytta applikationen från utvecklingsmiljön till produktion. Utvecklare kan istället arbeta i en miljö som är nästan identisk med produktionsmiljön, vilket minskar sannolikheten för problem och gör det lättare att överföra applikationen till produktion.
+
+Sammanfattningsvis gör virtualisering av utvecklingsmiljöer det mer effektivt och säkert att arbeta med utveckling genom att göra miljön portabel och lätt att distribuera och hantera. Detta minskar sannolikheten för fel och komplikationer i utvecklingsarbetet och ökar samarbetet och produktiviteten i teamet.
+
+
+
 
 ## PG 1.10 Bundeling-verktyg
 Beskriv rubriken här
+
+Programmering kan använda bundling-verktyg för att samla och organisera de olika resurser som behövs för en webbapplikation eller ett projekt. JavaScript-filer, CSS-stilar, bilder, fontfiler och andra relaterade filer kan vara en del av dessa resurser. Ett bundling-verktyg gör det möjligt att hantera och optimera resurser för att förbättra prestanda och användarupplevelse.
+Webpack:Webpack är ett populärt och kraftfullt handlingsprogram för webbutveckling. Det har förmågan att hantera en mängd olika filer och moduler och skapa en paketstruktur som är optimerad för webbapplikationer. Dessutom inkluderar Webpack ett antal plugins och verktyg för att förbättra och optimera prestanda för webbapplikationer.
+Paket: Parcel är ett snabbt och enkelt handlingsprogram som tillåter automatisk konfiguration och beroende hantering. Det kräver inte mycket konfiguration och kan hantera en mängd olika filer och resurser, såsom JavaScript, CSS, HTML och bilder, bland andra. Browserify är ett bundling-verktyg som syftar till att göra Node.js-moduler tillgängliga för webbläsare. Det gör det möjligt för npm-moduler och andra Node.js-bibliotek att användas i projekt som är webbläsarbaserade genom att konvertera dem till ett format som webbläsaren kan läsa.
+Rollup är ett modulbaserat bundling-verktyg som är inriktat på att skapa JavaScript-paket som är små men effektiva. Genom att ta bort oanvänd kod och optimera import- och export anrop skapar det vanligtvis mindre bundlar än andra verktyg, vilket gör det särskilt användbart för biblioteksutveckling.
 
 ## PG 1.11 Terminalinterface
 Beskriv rubriken här
@@ -162,6 +192,7 @@ D)Textning och kodning: Textfiler och källkodsfiler kan öppnas och ändras med
 
 Till slut är terminal gränssnittet ett viktigt verktyg för utvecklare för att utföra en mängd olika uppgifter inom områdena mjukvaruutveckling och systemadministration. Utvecklare kan automatisera uppgifter, öka produktiviteten och få en bättre förståelse för hur deras system fungerar med terminalen.
 
+ <img src="./images/Terminalinterface .jpeg" alt=" Terminalinterface"></a>
 
 källor  
 
@@ -186,3 +217,6 @@ https://polaridad.es/sv/Vad-är-en-tipterminal-gränssnittsprocessor-och-hur-fun
 https://www.konicaminolta.se/sv-se/solutions/production-printing/automatisering-arbetsfloden 
 
 https://powerautomate.microsoft.com/sv-se/benefits-of-rpa-robotic-process-automation/
+
+https://datorteknik1a.diginto.se/operativsystem/virtuella-maskiner/
+https://azure.microsoft.com/sv-se/resources/cloud-computing-dictionary/what-is-virtualization  
