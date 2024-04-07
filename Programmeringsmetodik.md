@@ -73,7 +73,7 @@ D)Observation: Efter distributionen måste de nya tilläggen noggrant övervakas
 vad är stagin?
 Staging Miljön är en viktig del av IT-utveckling och används för att testa och validera ändringar av mjukvara innan den släpps live i produktionsmiljön. Utvecklare och testare kan testa hur nya funktioner eller uppdateringar kommer att fungera genom att modellera produktionsmiljön.
 
- <img src="./images/Deploy och staging.jpeg" alt=" Deploy och staging"></a>
+ <img src="./images/ Deploy.jpeg" alt=" Deploy och staging"></a>
 
 
 
