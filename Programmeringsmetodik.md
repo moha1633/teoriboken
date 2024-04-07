@@ -73,8 +73,36 @@ Staging Miljön är en viktig del av IT-utveckling och används för att testa o
 ## PG 1.5 Debugging
 Beskriv rubriken här
 
+vad är debugging ?
+Debugging  är en av de svåraste och tidskrävande stadierna i mjukvaruutvecklings cykeln och är en nödvändig och avgörande del av processen. En bugg kan komma från ett kodfel, en logisk brist, oförutsedda data förhållanden eller till och med en kombination av flera faktorer. Det krävs en kombination av tekniska färdigheter, problemlösningsförmåga och noggrannhet för att identifiera och lösa dessa problem. Att förstå den grundläggande källan till fel är en viktig del av debugging. Ett fel kan ibland vara lätt att se och identifiera, som ett stavfel eller ett syntaxfel i koden. I andra situationer kan problemet vara mer komplicerat och kräva djupare undersökningar för att förstå dess ursprung. Det är vanligt att en bugg har flera orsaker, och det kan krävas att gräva djupt in i koden för att hitta och åtgärda varje problem.
+Utvecklare använder en mängd olika tekniker och verktyg för att underlätta debugging. Utvecklare använder ofta stegvis exekvering av koden, vilket innebär att de stegar igenom koden rad för rad för att spåra variabler och kontrollera hur programfältet utvecklas. Utvecklare kan använda breakpoints för att pausa körningen vid vissa punkter i koden för att se dess tillstånd. Dessutom är loggfiler avgörande för debugging eftersom de kan användas för att spåra programflödet och hitta problem eller oönskat beteende.
+Debugging kan dock vara en svår och irriterande uppgift. Buggar kan ibland vara svåra att reproducera, vilket gör det svårt att hålla dem borta och sköta dem. Dessutom kan ett felaktigt tillvägagångssätt orsaka nya problem eller biverkningar som kräver ytterligare testning och debugging.
+Trots svårigheterna är debugging en viktig del av mjukvaruutveckling processen och krävs för att producera programvara som är robust och pålitlig. Utvecklare kan effektivt identifiera och lösa problem, vilket förbättrar användarupplevelsen för den färdiga produkten genom att förstå olika debugging tekniker och använda lämpliga verktyg.
+
+Sammanfattningsvis är debugging en viktig process för mjukvaruutveckling som syftar till att identifiera, isolera och korrigera programvarufel. Det är en komplicerad och tidskrävande uppgift som kräver teknisk kompetens, problemlösningsförmåga och noggrannhet. Utvecklare kan spåra och åtgärda problem i koden genom att använda verktyg som loggfiler, breakpoints och stegvis exekvering. Trots svårigheterna är debugging avgörande för att skapa robust och pålitlig programvara, och att kunna utföra denna process effektivt är avgörande för framgångsrik mjukvaruutveckling.
+
 ## PG 1.6 Dokumentation
 Beskriv rubriken här
+vad är Dokumentation ?
+Att skapa och underhålla skriftliga eller digitala dokument som beskriver olika delar av något, som en produkt, system, process eller procedur, kallas dokumentation. Målet med dessa dokument är att ge en organiserad och lättförståelig representation av det dokumenterade objektet så att det blir lättare att förstå, använda, underhålla och vidareutveckla.
+Dokumentation är avgörande inom många olika industrier. Till exempel används dokumentation för att beskriva koden, systemarkitekturen, användargränssnittet och andra tekniska aspekter av en programvara i mjukvaruutveckling. Det hjälper utvecklare, användare och andra intressenter att förstå programvarans funktion och hur den ska användas.
+Beroende på dess mål och målgrupp kan dokumentation ta en mängd olika former. Det kan vara interaktiva guider, webbsidor, diagram, bilder eller textdokument. Dokumentationen, oavsett format, måste vara lättillgänglig, noggrant utformad och regelbundet uppdaterad för att fortsätta vara användbar och relevant över tiden.
+Några vanliga typer av information är:
+A)Tekniska dokumatation :Teknisk dokumentation innehåller omfattande information om ett system, arkitektur, komponenter och hur de interagerar med varandra.Beskrivningar av system designmönster, ramverk, databasstrukturer och API-specifikationer kan inkluderas i det.För att hjälpa utvecklare som ska arbeta med koden inkluderar kod kommentarer ofta teknisk dokumentation. Dessa kommentarer förklarar kodens syfte, funktioner, variabler och metoder.Teknisk dokumentation är avgörande för utvecklare och ingenjörer för att förstå systemets struktur och funktionalitet. Det hjälper också till att underlätta systemets underhåll och vidareutveckling över tid.
+
+B)Dokumentation för processen:
+Procedur Dokumentation beskriver de olika processer, rutiner och arbetsflöden som organisationen använder för att utföra olika uppgifter och hantera olika situationer.
+Det kan inkludera regler, protokoll, arbetsinstruktioner och checklistor som anger hur specifika uppgifter ska utföras.
+Dokumentation av procedurer är avgörande för att säkerställa att uppgifter utförs på ett konsekvent och korrekt sätt över hela organisationen och för att göra det lättare för nya medarbetare att lära sig och få kunskap.
+
+C)Specifikationerna för kravet:
+De funktionella och icke-funktionella krav som styr produktens eller systemets design och utveckling beskrivs i kravspecifikationer.
+Produkter eller system måste utföra vissa funktioner, beteenden och prestandakrav, enligt funktionella krav.
+Faktorer som prestanda, säkerhet, skalbarhet och användarupplevelse kallas icke-funktionella krav.
+Specifikationer är avgörande för att förstå och definiera vad som förväntas av en produkt eller ett system och för att guida designen och utvecklingen av den i enlighet med användarnas behov och förväntningar.
+
+
+
 
 ## PG 1.7 Struktur av kod i projekt
 Beskriv rubriken här
@@ -105,6 +133,12 @@ C) Kommentarer och utvärdering: Innan produktionsmiljön ändras kan hanterings
 
 ## PG 1.8 Automatisering av arbetsflöde
 Beskriv rubriken här
+vad är Automatisering av arbetsflöde ?
+Att använda verktyg och teknologi för att automatisera och effektivisera vanliga processer i ett arbetsflöde kallas automatisering av arbetsflöden. Upprepade uppgifter, manuella processer och sekvenser av händelser kan automatiseras för att spara tid, minska fel och öka produktiviteten.
+Inom IT-branschen handlar automatisering av arbetsflöden om att använda verktyg och teknik för att automatisera och effektivisera processer och rutinuppgifter relaterade till IT-tjänster, infrastruktur och utveckling. Att distribuera och övervaka mjukvaruuppdateringar, övervaka nätverksaktivitet och hantera användarbehörigheter är några av de möjliga uppgifterna. Här är några vanliga användningsområden för automatisering av arbetsflöden inom IT:
+Utdelning av programuppdateringar: IT-avdelningar kan automatisera distributionen och tillämpningen av mjukvaruuppdateringar på klient- och serverdatorer. Detta minskar behovet av manuella åtgärder och garanterar att systemen alltid är uppdaterade med den senaste programvaran.
+Konfigurationskontroll: Det är möjligt att använda automatisering för att hantera och upprätthålla en konsekvent konfiguration av en mängd olika enheter och system i en IT-infrastruktur. IT-avdelningar kan automatisera konfigurationsändringar för servrar, nätverksenheter och molntjänster genom att använda verktyg som Ansible, Puppet och Chef.
+Säkerhet och åtkomstkontroll: Det är möjligt att automatisera hanteringen av användarbehörigheter, säkerhetspolicyn och åtkomstkontroller för ett antal system och applikationer. IT-avdelningar kan hantera säkerhetscertifikat och automatisera processer för att tilldela och återkalla användarbehörigheter genom att använda identitets- och åtkomsthantering verktyg som Active Directory, LDAP och OAuth.IT-branschen är det första steget att automatisera arbetsflödet att identifiera de uppgifter och processer som är lämpliga för automatisering. För att implementera och automatisera dessa arbetsflöden måste man sedan välja lämpliga plattformar och verktyg. Det är också nödvändigt att kontinuerligt planera, testa och övervaka automatiseringen för att säkerställa att den fungerar som avsett och uppfyller yrkeskraven.
 
 ## PG 1.9 Virtualisering av utvecklingsmiljö
 Beskriv rubriken här
@@ -114,9 +148,19 @@ Beskriv rubriken här
 
 ## PG 1.11 Terminalinterface
 Beskriv rubriken här
+terminalen är ett användargränssnitt som använder text för att skriva in och utföra kommandon för att interagera med ett datorsystem. Genom att skriva kommandon kan användaren kommunicera direkt med operativsystemet eller annan programvara genom att få återkoppling i form av textoutput.
+För det mesta är terminalen en applikation eller ett program som kan öppnas i en fönstermiljö på en dator. Terminalen kallas också shell eller kommandotolk i Unix-liknande system som Linux och macOS. Det kallas vanligtvis kommandotolken eller kommandoprompten i Windows-operativsystemet.
+Användaren kan utföra ett brett utbud av uppgifter och åtgärder med terminalen, som inkluderar:
+A) navigera på filesystemet :Användaren kan lista filer och kataloger i den aktuella katalogen med kommandon som ls och cd för att byta kataloger.
+Användaren kan navigera till olika platser i filsystemet genom att ange en relativ eller absolut sökväg.
+För att skapa en ny katalog kan användaren använda kommandot mkdir, därefter namnet på den nya katalogen, och kommandot rm kan användas för att ta bort en fil eller katalog.
+Användaren kan använda kommandon som chmod för att ändra filens tillstånd och chown för att ändra filens ägare för att ändra filrättigheter.
+B)Hantering av processer För att lista körande processer kan användare använda kommandon som ps och top för att visa en dynamisk lista över de mest aktiva processerna.För att initiera en ny process kan användaren bara skriva in verktygets eller programmets namn, följt av eventuella relevanta kommandon och argument.Användaren kan använda kommandot kill, som följs av processens PID, för att stoppa en pågående process.Kommandot nice kan också användas för att ändra process prioriteter och kontrollera mängden CPU-tid som processen får.
 
+C)Kontroll av versioner: Terminalen används av utvecklare för att arbeta med versionshanteringsverktyg som Git, Mercurial och SVN. De kan klona, skapa grenar, utföra sammanfogningar, bifoga ändringar och hantera en mängd olika delar av sina kodbasen med hjälp av terminalkommandon.
+D)Textning och kodning: Textfiler och källkodsfiler kan öppnas och ändras med terminalgränssnittet genom att använda textredigerare som Vim, Emacs eller Nano. Dessa redigerare kan användas av utvecklare för att skriva och redigera kod, navigera i filer, söka och ersätta text och utföra andra operationer som är relaterade till text.
 
-
+Till slut är terminal gränssnittet ett viktigt verktyg för utvecklare för att utföra en mängd olika uppgifter inom områdena mjukvaruutveckling och systemadministration. Utvecklare kan automatisera uppgifter, öka produktiviteten och få en bättre förståelse för hur deras system fungerar med terminalen.
 
 
 källor  
@@ -131,3 +175,14 @@ https://support.microsoft.com/sv-se/topic/skapa-strukturkoder-i-project-skrivbor
 
 
 https://umbraco.com/knowledge-base/deployment/  
+
+https://www.techtarget.com/searchsoftwarequality/definition/debugging 
+
+https://www.ninjaone.com/sv/blog/de-5-basta-metoderna-for-it-dokumentation/ 
+
+https://support.apple.com/sv-se/guide/terminal/trmld4c92d55/mac 
+https://polaridad.es/sv/Vad-är-en-tipterminal-gränssnittsprocessor-och-hur-fungerar-den%3F/
+
+https://www.konicaminolta.se/sv-se/solutions/production-printing/automatisering-arbetsfloden 
+
+https://powerautomate.microsoft.com/sv-se/benefits-of-rpa-robotic-process-automation/
