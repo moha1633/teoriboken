@@ -68,9 +68,7 @@ Objektorienterad programmering (OOP) är en metod för programmering som lägger
 Inkapsling, en viktig princip inom Open Source Programming (OOP), innebär att data (egenskaper) och tekniker för att arbeta med dem är sammankopplade i ett objekt. Genom att begränsa tillgången till vissa delar av koden och förhindra oönskad datamanipulation, stödjer detta idén om att göra koden mer robust och säker.
 En klass kan ärva metoder och egenskaper från en annan klass genom arv, en ytterligare viktig komponent i Open Source Programming (OOP). Detta ökar återanvändningen av kod och minskar behovet av kodduplikationer. JavaScript använder vanligtvis prototypkedjor och prototyphierarkier för att implementera arv.
 
-En annan princip inom Open Source Programming (OOP) som kallas polymorfism tillåter objekt att bete sig på olika sätt beroende på vilken typ av objekt de är. Detta kan uppnås genom att kombinera tekniker som är identiska i olika klasser men som används för olika ändamål.
-
-JavaScript-utvecklare kan skriva kod som är mer strukturerad, lättläst och underhållbar genom att använda dessa OOP-principer. OOP i JavaScript är särskilt användbart när man bygger större och mer komplexa webbapplikationer, där en tydlig kodstruktur och organisering är avgörande. JavaScript-utvecklare har nu bättre verktyg för att implementera objektorienterade koncept i sin kod med klassens införande i ECMAScript 2015 (ES6).
+En annan princip inom Open Source Programming (OOP) som kallas polymorfism tillåter objekt att bete sig på olika sätt beroende på vilken typ av objekt de är. Detta kan uppnås genom att kombinera tekniker som är identiska i olika klasser men som används för olika ändamå
 
 
 ## JS 1.5 DOM-manipulation
