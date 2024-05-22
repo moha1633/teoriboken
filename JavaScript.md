@@ -1,5 +1,5 @@
 # Teorihandboken - JavaScript (JS)
-Studerande: Förnamn Efternamn
+Studerande: Mohamed abdi ali
 
 ## JS 1.1 JavaScript / ECMAScript
 Beskriv rubriken här
